@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Demo Rrome RSS</title>
+  <link>https://www.sample.com</link>
+  <description>Just test...</description>
+  <item>
+    <title>Title</title>
+    <link>Link</link>
+    <description>Description</description>
+    <customString>Custom Tag String</customString>
+    <customDate>Tue, 08 Aug 2017 04:34:30 +0000</customDate>
+  </item>
+  
+</channel>
+</rss>
